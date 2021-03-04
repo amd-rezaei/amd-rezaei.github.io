@@ -1,0 +1,10 @@
+Ahmad Rezaei is a young researcher at RSS lab., where he works on Hardware Design and Machine Learning.
+He received his bachelor in Electrical Engineering- Minor Electronics at SBUK university, in 2019. His
+bachelor dissertation was on "Developing Dynamic Bayesian networks for SET analysis in digital circuits"
+under the supervision of Prof. Ali Mahani.
+
+Commencing his programming life with Q-basic and Visual Basic languages at age 12, He was a student 
+in National Organization for Development of Exceptional Talents (NODET Special School). He was further
+taught C/C++ languages before graduating from school; nowadays, he thinks of programming languages more 
+of a tool to serve the challenges.
+
