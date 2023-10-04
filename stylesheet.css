@@ -105,6 +105,10 @@ name {
   font-size: 32px;
 }
 
+.red-text-shadow {
+  text-shadow: red 0 -2px;
+}
+
 .one {
   width: 160px;
   height: 160px;
@@ -125,6 +129,7 @@ name {
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
 }
+
 
 span.highlight {
   background-color: #ffffd0;
